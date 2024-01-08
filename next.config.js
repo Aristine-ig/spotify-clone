@@ -2,7 +2,7 @@
 const nextConfig = {
     images: {
         remotePatterns: [
-            'xyrcmubddtppqihsfzng.supabase.co'
+            xyrcmubddtppqihsfzng.supabase.cos
         ]
     }
 }
