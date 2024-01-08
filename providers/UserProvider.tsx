@@ -13,7 +13,7 @@ const UserProvider: React.FC<UserProviderProps> = ({
     <MyUserContextProvider>
       {children}
     </MyUserContextProvider>
-   );
+  );
 }
  
 export default UserProvider;
