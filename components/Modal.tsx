@@ -92,8 +92,6 @@ const Modal: React.FC<ModalProps> = ({
                 items-center
                 rounded-full
                 focus:outline-none
-
-              
               "
             >
               <IoMdClose />
